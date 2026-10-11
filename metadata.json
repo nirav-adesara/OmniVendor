@@ -1,0 +1,6 @@
+{
+  "name": "OmniVendor - Multi-Vendor Marketplace with Phone OTP",
+  "description": "Multi-vendor marketplace platform featuring phone OTP verification, vendor mini-stores, product catalog management, grouped cart, and direct internal & WhatsApp order transmission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
